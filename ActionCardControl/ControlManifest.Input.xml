@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <control namespace="CustomControls" constructor="ActionCardControl" version="1.0.2"
+  <control namespace="CustomControls" constructor="ActionCardControl" version="1.0.6"
     display-name-key="ActionCardControl" description-key="Картка з двома діями"
     control-type="standard">
 
